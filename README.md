@@ -32,7 +32,7 @@ To be able to use this repository we can run a git comand like this one:
 
 Final view should be the following:
 
-![](https://github.com/rulo96z/Financial_Analysis/blob/master/readme_pics/jupyter%20lab.png?raw=true)
+![](https://github.com/rulo96z/Financial_Analysis/blob/master/readme_pics/jupyterlab.png?raw=true)
 
 ---
 ## Contributors
