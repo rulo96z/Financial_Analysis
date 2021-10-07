@@ -25,6 +25,14 @@ In this project we are using **Python 3.8/ Jupyter lab**. The libraries tha we u
 ---
 
 ## Usage
+To be able to use this repository we can run a git comand like this one: 
+> **jupyter lab** (This comand will lunch the webpage with jupyter lab) 
+
+![](https://github.com/rulo96z/Financial_Analysis/blob/master/readme_pics/comando.png?raw=true)
+
+Final view should be the following:
+
+![](https://github.com/rulo96z/Financial_Analysis/blob/master/readme_pics/jupyter%20lab.png?raw=true)
 
 ---
 ## Contributors
