@@ -17,12 +17,11 @@ In this project we are using **Python 3.8/ Jupyter lab**. The libraries tha we u
 ---
 
 ## Installation Guide
-
-
-
-
-
-
+ 
+- [Python](https://www.python.org/downloads/)
+- [Pathlib](https://docs.python.org/3/library/pathlib.html)
+- [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+- [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 ---
 
 ## Usage
